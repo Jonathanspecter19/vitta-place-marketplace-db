@@ -88,8 +88,9 @@ As imagens abaixo demonstram a validação das principais consultas de auditoria
 
 ### Consulta da View DRE por período
 
-![Consulta da View DRE por período](prints/01_view_dre_periodo.png)
+![Consulta da View DRE por período] (<img width="952" height="218" alt="01_view_dre_periodo" src="https://github.com/user-attachments/assets/46c441f6-47c9-4219-81cf-65599f6711e7" />)
 
 ### Execução da Stored Procedure de consulta da DRE
 
-[Execução da Stored Procedure de consulta da DRE](prints/02_procedure_consultar_dre.png)
+[Execução da Stored Procedure de consulta da DRE] (<img width="954" height="197" alt="02_procedure_consultar_dre" src="https://github.com/user-attachments/assets/2485306f-9d7b-46f8-a64f-afab07f4cd89" />)
+
